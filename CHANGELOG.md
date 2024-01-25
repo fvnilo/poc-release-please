@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/nylo-andry/poc-release-please/compare/v1.4.0...v1.5.0) (2024-01-25)
+
+
+### Features
+
+* Add gfoo ([67f5a08](https://github.com/nylo-andry/poc-release-please/commit/67f5a08215fef0452d14a957491f418ab41ea163))
+* Update Docs ([4079756](https://github.com/nylo-andry/poc-release-please/commit/40797567194f020ee6154a69b28b4e9cd8ee3ddf))
+
 ## [1.4.0](https://github.com/nylo-andry/poc-release-please/compare/v1.3.0...v1.4.0) (2024-01-25)
 
 
