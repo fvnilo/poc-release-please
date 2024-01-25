@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/nylo-andry/poc-release-please/compare/v1.2.0...v1.3.0) (2024-01-25)
+
+
+### Features
+
+* Update Docs ([32a9882](https://github.com/nylo-andry/poc-release-please/commit/32a9882b936c2e503577589a4aff5ea693a0c705))
+
 ## [1.2.0](https://github.com/nylo-andry/poc-release-please/compare/v1.1.0...v1.2.0) (2024-01-25)
 
 
